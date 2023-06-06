@@ -4,7 +4,7 @@ taller 7 con servlets
 Este repositorio cuenta con un avance en el proyecto donde se le agregaron dos tablas nuevas a la base de datos, las cuales son:
 -categoria 
 -producto
-etas dos tablas estan relacionadas y cuenta con su interfaz a travez de un formulario de registro con su implementacion de servlets y repository
+etas dos tablas estan relacionadas y cuenta con su interfaz a travez de un formulario de registro con su implementación de servlets y repository
 
 
 REGISTRAR UN USUARIO
